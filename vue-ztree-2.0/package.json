@@ -1,0 +1,50 @@
+{
+  "_from": "vue-ztree-2.0",
+  "_id": "vue-ztree-2.0@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-d7KZsquEYpM0jD/k1uwOMFCd08L6++7zwRESaL2sF43OtRFCump8BxcLpjusBIHpFadPvOSMMnK5P41y+ZiTlA==",
+  "_location": "/vue-ztree-2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue-ztree-2.0",
+    "name": "vue-ztree-2.0",
+    "escapedName": "vue-ztree-2.0",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-ztree-2.0/-/vue-ztree-2.0-1.0.4.tgz",
+  "_shasum": "4559519a31be2e84f3afa90c821e76b5b58c563c",
+  "_spec": "vue-ztree-2.0",
+  "_where": "D:\\hz\\南方有色\\S2-系统代码\\client\\source",
+  "author": {
+    "name": "kummy"
+  },
+  "bugs": {
+    "url": "https://github.com/lisiyizu/vue-ztree-2.0/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "vue-ztree 树组件",
+  "homepage": "https://github.com/lisiyizu/vue-ztree-2.0#readme",
+  "keywords": [
+    "vue2.0"
+  ],
+  "license": "ISC",
+  "main": "vue-ztree-2.0.common.js",
+  "name": "vue-ztree-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lisiyizu/vue-ztree-2.0.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}
